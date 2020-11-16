@@ -18,13 +18,13 @@ Designed for use with [GitHub Classroom](https://classroom.github.com/), this re
 
 You can choose to work individually or in a team for this project assignment. GitHub Classroom project assignment is set up to be an individual assignment. If you are working in a team, please have one team member accept the assignment and establish the repository. Then, contact the instructor or a technical leader to add the other team members to this repository. Finally, change the name of the repository to reflect that this is a team project.
 
-## Introduction
+## Summary
 
 Throughout the semester, you have learned the underlying workings of the programming language design and experimented with various programming languages. The course project invites you to explore, in greater detail, specific programming language(s) design or its application.
 
 Your project should result in a detailed report that includes all of your source code, in addition to written materials and technical diagrams that highlight the key contributions of your work. This technical report should include a description of why the chosen topic is important and discuss the implementation and/or experimentation that you undertook. The written material should be precise, formal, appropriately formatted, grammatically correct, informative, and interesting. The source code that you write must be carefully documented and tested. If you install and use existing computer software, the steps for installation and use should be clearly documented in your report. Also, the report must explain the steps to run your programs. Finally, if you work in a team, your report must detail the work completed by each member of your team; individual contributions should also be reflected in commits to the team's repository. In addition to writing the aforementioned final report in Markdown, you will also use Markdown to write and submit a project proposal and a status update at the intermediate deadlines.
 
-## Continuous Learning
+## Reading Assignment
 
 To ensure that you are best prepared to complete this final project, please review all of the chapters that we have covered up to and after the release date of this assignment.
 
