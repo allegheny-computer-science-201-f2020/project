@@ -54,25 +54,29 @@ In GatorGrader's absence, you should establish correctness checks for your sourc
 
 ## Required Deliverables and Deadlines
 
+### Summary of Deliverables
+
 This assignment invites you to submit, using GitHub, the following deliverables.
 
 1. Completed, correct, fully commented, and properly formatted versions of all source code files.
 
-2. A four-paragraph written proposal, saved in the file `writing/proposal.md`, with an informative title, a description of the main idea, an initial listing of the tasks that you must complete, and a plan that you will follow to complete the work.
+2. A three-paragraph written proposal, saved in the file `writing/proposal.md`, with an informative title, a description of the main idea, an initial listing of the tasks that you must complete, and a plan that you will follow to complete the work.
 
-3. A one-paragraph status update, saved in the file `writing/update.md`, that explains what you have already implemented and the steps that you will take to finish your program.
+3. A two-paragraph status update, saved in the file `writing/update.md`, that explains what you have already implemented and the steps that you will take to finish your project implementation.
 
-4. Participation in a Code Walkthrough. Code Walkthrough is a peer review of the code in which an author of the code leads the review process and the reviewers ask questions and spot possible errors. Technical leaders and the instructor will act as the reviewers. Each project's team members (or a single member) is considered to be an author of the code. For each written program, the author(s) will describe the written program by going through the code line by line and explaining the purpose of each line or a sequence of lines. The reviewers will provide feedback at the end of the review of each program or a complete review of programs, as appropriate. At the end of the walkthrough, the reviewers will report a list of findings and also identify high level action items, which will include the required next steps for the author(s) to take.
+4. Participation in a Code Walkthrough. Code Walkthrough is a peer review of the code in which an author of the code leads the review process and the reviewers ask questions and spot possible errors. The technical leader and the instructor will act as the reviewers. Each project's team members (or a single member) is considered to be an author of the code. For each written program, the author(s) will describe the written program by going through the code line by line and explaining the purpose of each line or a sequence of lines. The reviewers will provide feedback at the end of the review of each program or a complete review of programs, as appropriate. At the end of the walkthrough, the reviewers will report a list of findings and also identify high level action items, which will include the required next steps for the author(s) to take.
 
-5. A detailed final project report, saved in the file `writing/report.md`, that documents, in a project-specific fashion, how you designed, implemented, and evaluated your system. This Markdown-based document should also explain and include the input, output, and the challenges that you confronted when implemented the project. For every challenge that you encountered, please explain your solution for it. If worked in a team, this document should also explain how your team collaborated to finish the assignment, with each team member writing their own paragraph inside of this Markdown file.
+5. A detailed final project report, saved in the file `writing/report.md`, that documents, in a project-specific fashion, how you designed, implemented, and evaluated your system. This Markdown-based document should also explain and include the input, output, and the challenges that you confronted when implemented the project. For every challenge that you encountered, please explain your solution for it. If worked in a team, this document should also explain how your team collaborated to finish the assignment, with each team member writing their own paragraph inside of this Markdown file. Finally, your report should include information on how to compile/run your system and if there are dependencies beyond what is included in the `progator`, specify commands necessary to install these dependencies.
 
 6. A commit log in your GitHub repository that clearly shows incremental progress made on the assignment.
 
+### Deadlines
+
 You must complete all of the aforementioned deliverables by the following due dates:
 
-1. **Project Proposal: Thursday, November 19, 2020**: After brainstorming ideas during the lab session, pick a topic for your final project. Remember, if you select the student-designed project, you must first have your project approved by the course instructor. Next, make sure that you accept the assignment and create a GitHub repository that can be accessed by the instructor. Finally, write and submit a one-page proposal for your project. Your proposal should have an informative title, a description of the main idea, an initial listing of the tasks that you must complete, and a plan for completing the work.
+1. **Project Proposal: Thursday, November 19, 2020**: After brainstorming ideas during the lab session, pick a topic for your final project. Remember, if you select the student-designed project, you must first have your project approved by the course instructor. Next, make sure that you accept the assignment and create a GitHub repository that can be accessed by the instructor. Finally, write and submit a proposal for your project. Your proposal should have an informative title, a description of the main idea, an initial listing of the tasks that you must complete, and a plan for completing the work.
 
-2. **Status Update: Tuesday, December 1, 2020**: As you continue working on your project, please write and submit a one paragraph status update through your Git repository.
+2. **Status Update: Tuesday, December 1, 2020**: As you continue working on your project, please write and submit a two paragraph status update through your Git repository.
 
 3. **Code Walkthrough: Tuesday, December 1, 2020**: You should give a demonstration, during the laboratory session, highlighting the most important code that you have finished. Code walkthrough is an informal process where code is reviewed for technical accuracy with the objective of finding errors and improving the quality of the code. The author(s) of the code lead the code walkthrough. The main purpose of walkthrough is to help authors gain an understanding of the content of the project and identify its potential flaws. Note that the goal of a walkthrough is an error detection, not error correction. When the walkthrough is finished, the author of the output is responsible for taking the necessary actions to correct the errors.
 
@@ -80,7 +84,7 @@ You must complete all of the aforementioned deliverables by the following due da
 
 ## System Commands
 
-You can use Docker for this course. This provides an environment with the languages that will be used in the class and ensures that everyone uses the same versions for help and grading purposes. Follow the instructions below, which can also be found at the `progator` Docker image link provided below, to get started. `progator` supports the following languages: Java, Python, C, C++, C#, F#, JavaScript, Go, Haskell, Perl, Rust, Fortran, Racket, Ruby, Cobol, and Lisp.
+You can use Docker for this course project. This provides an environment with the languages that will be used in the class and ensures that everyone uses the same versions for help and grading purposes. Follow the instructions below, which can also be found at the `progator` Docker image link provided below, to get started. `progator` supports the following languages: Java, Python, C, C++, C#, F#, JavaScript, Go, Haskell, Perl, Rust, Fortran, Racket, Ruby, Cobol, and Lisp.
 
 [progator Docker Image](https://hub.docker.com/repository/docker/janyljumadinova/progator)
 
@@ -172,6 +176,6 @@ The grade that a student receives on this assignment will have the following com
 
 - **Code Walkthrough [up to 15% of the project grade]**: Participation and
 
-- **Final Implementation and Report [up to 65% of the project grade]**: As a part of this grade, the instructor will assess aspects of the project including, but not limited to, the correct and useful source code and Markdown report, the use of effective source code comments and Git commit messages. Students are encouraged to ask the course instructor or a student technical leader to use the GitHub issue tracker to provide feedback on how well their work demonstrates mastery of the assignment's technical knowledge and skills.
+- **Final Implementation and Report [up to 65% of the project grade]**: As a part of this grade, the instructor will assess aspects of the project including, but not limited to, the correct and useful source code and Markdown report, its evaluation, the use of effective source code comments and Git commit messages. Your grade will be reduced if insufficient details are provided on how to run your source code or if it does not describe the necessary input to your system or does not include its sample output. Students are encouraged to ask the course instructor or a student technical leader to use the GitHub issue tracker to provide feedback on how well their work demonstrates mastery of the assignment's technical knowledge and skills.
 
 All grades for the assignments in this course will be reported through Canvas. Feedback on project assignments will be provided through a student's GitHub repository using the comment in the "Feedback" pull request.
