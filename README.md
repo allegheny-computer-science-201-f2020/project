@@ -96,7 +96,7 @@ You can check that you have the `progator` image by running the following comman
 
 ### Running
 
-Now, run the docker container and mount your "lab05" directory as a volume by replacing `your-path/local/working/directory` in the following command with the path to your "lab05" directory:
+Now, run the docker container and mount your "project" directory as a volume by replacing `your-path/local/working/directory` in the following command with the path to your "project" directory:
 
 _Mac OS_:
 
@@ -172,6 +172,6 @@ The grade that a student receives on this assignment will have the following com
 
 - **Code Walkthrough [up to 15% of the project grade]**: Participation and
 
-- **Final Implementation and Report [up to 65% of the lab grade]**: As a part of this grade, the instructor will assess aspects of the project including, but not limited to, the correct and useful source code and Markdown report, the use of effective source code comments and Git commit messages. Students are encouraged to ask the course instructor or a student technical leader to use the GitHub issue tracker to provide feedback on how well their work demonstrates mastery of the assignment's technical knowledge and skills.
+- **Final Implementation and Report [up to 65% of the project grade]**: As a part of this grade, the instructor will assess aspects of the project including, but not limited to, the correct and useful source code and Markdown report, the use of effective source code comments and Git commit messages. Students are encouraged to ask the course instructor or a student technical leader to use the GitHub issue tracker to provide feedback on how well their work demonstrates mastery of the assignment's technical knowledge and skills.
 
-All grades for the assignments in this course will be reported through Canvas. Feedback on lab assignments will be provided through a student's GitHub repository using the comment in the "Feedback" pull request.
+All grades for the assignments in this course will be reported through Canvas. Feedback on project assignments will be provided through a student's GitHub repository using the comment in the "Feedback" pull request.
